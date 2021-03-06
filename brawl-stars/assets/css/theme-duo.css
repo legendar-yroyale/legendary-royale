@@ -1,0 +1,18 @@
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: File to import not found or unreadable: compass/css3.\A        Load path: /Users/piotrosmola/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/Templates/okno/html/assets/sass\A         on line 25 of /Users/piotrosmola/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/Templates/okno/html/assets/sass/_base.scss\A         from line 11 of /Users/piotrosmola/Library/Containers/com.bitnami.mampstack/Data/app-5_4_9/apache2/htdocs/Templates/okno/html/assets/sass/theme-duo.scss"; }
+
+/* Opaque Text */
+
+p.text-muted {
+	opacity: unset !important;
+}
+
+.h5 {
+	opacity: unset !important;
+}
+
+.workflow-steps .step.animated i, .workflow-steps .step.animated h5, .workflow-steps .step.animated p {
+	opacity: unset !important;
+}
