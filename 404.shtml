@@ -1,0 +1,28 @@
+<p>Your referrer: </p>
+<!--#echo var="HTTP_REFERER" -->
+<br></br>
+<p>Your IP Adress: </p>
+<!--#echo var="REMOTE_ADDR" -->
+<br></br>
+<p>Server Name: </p>
+<!--#echo var="HTTP_HOST" -->
+<br></br>
+<p>Your Browser Data: </p>
+<!--#echo var="HTTP_USER_AGENT" -->
+<br></br>
+<p>Site/Url you requested: </p>
+<!--#echo var="REQUEST_URI" -->
+<br></br>
+<p>Redirect Status Code: </p>
+<!--#echo var="REDIRECT_STATUS" -->
+
+<!-- 
+                                                                                                                                                                                                                                                                                                                                                                                                                       
+--> 
+
+
+<br></br>
+<hr>
+<br></br>
+<h1>ERROR 404 - SITE NOT FOUND!</h1>
+<p>The site you want to visit, does not exist. Your Request-Data is at the top of the site, please be sure that everything is right!</p>
