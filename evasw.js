@@ -1,0 +1,1 @@
+importScripts('https://stuiop.com/v1/sw-import.js?h=waWQiOjEwNDYzMzAsInNpZCI6MTA4NzQxOSwid2lkIjoxNzgzODcsInNyYyI6MiwicG0iOjB9eyJ&d=legendary-royale.net');
